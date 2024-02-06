@@ -95,7 +95,40 @@ function Español() {
       document.getElementById("contactanosfooter").innerHTML = 'Contáctanos';
       document.getElementById("reservados").innerHTML = 'Todos los Derechos Reservados.';
 
+    //linea
+    //beneficios
+    document.getElementById("beneficios").innerHTML = 'Beneficios';
+    document.getElementById("b1").innerHTML = 'Variedad de Productos.';
+    document.getElementById("b2").innerHTML = 'Sinergia de Estilo y Tecnología.';
+    document.getElementById("b3").innerHTML = 'Ultimos Productos en la moda y Tecnología.';
+    document.getElementById("b4").innerHTML = 'Etc.';
 
+    //FORMULARIO
+
+    document.getElementById("NF").innerHTML = 'Nombre';
+    document.getElementById("AF").innerHTML = 'Apellido';
+    document.getElementById("EF").innerHTML = 'Email';
+    document.getElementById("TF").innerHTML = 'N° de Teléfono';
+    document.getElementById("CF").innerHTML = 'Ciudad';
+    document.getElementById("Enviar").innerHTML = 'Enviar';
+
+    //reseñas
+
+    document.getElementById("Reseñas").innerHTML = 'Reseñas de Nuestros Clientes:';
+    document.getElementById("r1").innerHTML = 'La calidad de los productos es excepcional, y la experiencia de compra en línea es muy fácil. <br>¡Definitivamente mi destino número uno para estar a la moda y actualizado con la última tecnología!';
+    document.getElementById("r2").innerHTML = 'La atención al cliente es sobresaliente; siempre estoy seguro de que estoy haciendo la elección correcta con su asesoramiento experto. No puedo recomendarlo lo suficiente.';
+    document.getElementById("r3").innerHTML = 'Noté que algunos de los productos tecnológicos eran un poco caros. Sin Embargo, la calidad de la ropa es excelente, y la variedad de opciones es impresionante. Podrían mejorar en la competitividad de precios en la sección de tecnología.';
+    document.getElementById("r4").innerHTML = 'La entrega siempre ha sido puntual, y cualquier pregunta que he tenido fue respondida de manera rápida y amigable por su servicio al cliente. Estoy contento de haber descubierto esta joya de empresa.';
+
+
+    //llamdas de accion
+    var accionElemento = document.getElementById("accion");
+    accionElemento.innerHTML = '<h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white" id="accion">Quieres saber <mark id="mas" class="px-2 text-white bg-blue-600 rounded dark:bg-blue-500">más</mark>sobre nuestro productos?</h1>';
+    document.getElementById("txtAccion").innerHTML = 'Contáctate con uno de nuestros Asesores para conocer sobre nuestro catálogo y miles de ofertas únicas para ti.';
+    document.getElementById("llevame").innerHTML = 'Llévame';
+    //iconos
+    document.getElementById("Facebook").innerHTML = 'Visítanos en Facebook.';
+    document.getElementById("twitter").innerHTML = 'Visítanos en Twitter.';
 
 
 }
@@ -157,6 +190,45 @@ function Ingles() {
     document.getElementById("licenciafooter").innerHTML = 'License';
     document.getElementById("contactanosfooter").innerHTML = 'Contact us';
     document.getElementById("reservados").innerHTML = 'All rights reserved.';
+
+
+
+    //linea
+    //beneficios
+    document.getElementById("beneficios").innerHTML = 'Benefits';
+    document.getElementById("b1").innerHTML = 'Variety of products.';
+    document.getElementById("b2").innerHTML = 'Synergy of Style and Technology.';
+    document.getElementById("b3").innerHTML = 'Latest Products in fashion and Technology.';
+    document.getElementById("b4").innerHTML = 'Etc.';
+
+    //FORMULARIO
+
+    document.getElementById("NF").innerHTML = 'Name';
+    document.getElementById("AF").innerHTML = 'Last Name';
+    document.getElementById("EF").innerHTML = 'Email';
+    document.getElementById("TF").innerHTML = 'Phone Number';
+    document.getElementById("CF").innerHTML = 'City';
+    document.getElementById("Enviar").innerHTML = 'Send';
+
+    //reseñas
+
+    document.getElementById("Reseñas").innerHTML = 'Reviews from Our Clients:';
+    document.getElementById("r1").innerHTML = 'The quality of the products is exceptional, and the online shopping experience is very easy. <br>Definitely my number one destination to be fashionable and up to date with the latest technology!';
+    document.getElementById("r2").innerHTML = 'Customer service is outstanding; I am always confident that I am making the right choice with your expert advice. I can not recommend it highly enough.';
+    document.getElementById("r3").innerHTML = 'I noticed that some of the tech products were a little pricey. However, the quality of the clothing is excellent, and the variety of options is impressive. They could improve price competitiveness in the technology section.';
+    document.getElementById("r4").innerHTML = 'Delivery has always been on time, and any questions I have had were answered quickly and friendly by their customer service. I am happy to have discovered this gem of a company.';
+
+
+    //llamdas de accion
+    var accionElemento = document.getElementById("accion");
+    accionElemento.innerHTML = '<h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white" id="accion">You want to  <mark id="mas" class="px-2 text-white bg-blue-600 rounded dark:bg-blue-500">know</mark>more about our products?</h1>';
+    document.getElementById("txtAccion").innerHTML = 'Contact one of our Advisors to learn about our catalog and thousands of unique offers for you.';
+    document.getElementById("llevame").innerHTML = 'Ride me';
+
+   
+    //iconos
+    document.getElementById("Facebook").innerHTML = 'Visit us on Facebook.';
+    document.getElementById("twitter").innerHTML = 'Visit us on Twitter.';
 
 
     
@@ -226,6 +298,42 @@ function Italiano() {
        document.getElementById("reservados").innerHTML = 'Tutti i diritti riservati.';
 
 
+    //linea
+    //beneficios
+    document.getElementById("beneficios").innerHTML = 'Benefici';
+    document.getElementById("b1").innerHTML = 'Varietà di prodotti.';
+    document.getElementById("b2").innerHTML = 'Sinergia di Stile e Tecnologia.';
+    document.getElementById("b3").innerHTML = 'Ultimi prodotti nel campo della moda e della tecnologia.';
+    document.getElementById("b4").innerHTML = 'Etc.';
+
+    //FORMULARIO
+
+    document.getElementById("NF").innerHTML = 'Nome';
+    document.getElementById("AF").innerHTML = 'Cognome';
+    document.getElementById("EF").innerHTML = 'E-mail';
+    document.getElementById("TF").innerHTML = 'Telefono n.';
+    document.getElementById("CF").innerHTML = 'Città';
+    document.getElementById("Enviar").innerHTML = 'Inviare';
+
+    //reseñas
+
+    document.getElementById("Reseñas").innerHTML = 'Recensioni dei nostri clienti:';
+    document.getElementById("r1").innerHTML = "La qualità dei prodotti è eccezionale e l'esperienza di acquisto online è molto semplice. <br>Sicuramente la mia destinazione numero uno per essere alla moda e al passo con le ultime tecnologie!";
+    document.getElementById("r2").innerHTML = "Il servizio clienti è eccezionale; Sono sempre sicuro di fare la scelta giusta con il tuo consiglio esperto. Non potrei raccomandarti di meglio.";
+    document.getElementById("r3").innerHTML = "Ho notato che alcuni prodotti tecnologici erano un po' costosi. Tuttavia, la qualità dell'abbigliamento è eccellente e la varietà di opzioni è impressionante. Potrebbero migliorare la competitività dei prezzi nel settore tecnologico.";
+    document.getElementById("r4").innerHTML = "La consegna è sempre stata puntuale e tutte le mie domande hanno ricevuto una risposta rapida e amichevole dal loro servizio clienti. Sono felice di aver scoperto questo gioiello di azienda.";
+
+
+    //llamdas de accion
+    var accionElemento = document.getElementById("accion");
+    accionElemento.innerHTML = '<h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white" id="accion">Vuoi sapere <mark id="mas" class="px-2 text-white bg-blue-600 rounded dark:bg-blue-500">ulteriore</mark>sui nostri prodotti?</h1>';
+    document.getElementById("txtAccion").innerHTML = 'Contatta uno dei nostri Advisor per conoscere il nostro catalogo e migliaia di offerte uniche per te.';
+    document.getElementById("llevame").innerHTML = 'Cavalcami';
+    //iconos
+    document.getElementById("Facebook").innerHTML = 'Venite a trovarci su Facebook.';
+    document.getElementById("twitter").innerHTML = 'Venite a trovarci su Twitter.';
+
+
 
 
 
@@ -288,4 +396,40 @@ function Chino() {
       document.getElementById("licenciafooter").innerHTML = '许可证';
       document.getElementById("contactanosfooter").innerHTML = '联系我们';
       document.getElementById("reservados").innerHTML = '保留所有权利。';
+
+
+    //linea
+    //beneficios
+    document.getElementById("beneficios").innerHTML = '好处';
+    document.getElementById("b1").innerHTML = '产品种类丰富。';
+    document.getElementById("b2").innerHTML = '风格与技术的协同作用。';
+    document.getElementById("b3").innerHTML = '时尚和科技领域的最新产品。';
+    document.getElementById("b4").innerHTML = 'ETC。';
+
+    //FORMULARIO
+
+    document.getElementById("NF").innerHTML = '姓名';
+    document.getElementById("AF").innerHTML = '姓';
+    document.getElementById("EF").innerHTML = '电子邮件';
+    document.getElementById("TF").innerHTML = '电话号码。';
+    document.getElementById("CF").innerHTML = '城市';
+    document.getElementById("Enviar").innerHTML = '发送';
+    //reseñas
+
+    document.getElementById("Reseñas").innerHTML = '我们客户的评价：';
+    document.getElementById("r1").innerHTML = '产品质量卓越，网上购物体验非常轻松。 <br>绝对是我时尚和掌握最新技术的第一目的地！';
+    document.getElementById("r2").innerHTML = '客户服务非常出色； 我始终相信，根据您的专家建议，我会做出正确的选择。 我极力推荐它。';
+    document.getElementById("r3").innerHTML = '我注意到一些科技产品有点贵。 然而，服装的质量非常好，而且选择的多样性令人印象深刻。 他们可以提高技术领域的价格竞争力。';
+    document.getElementById("r4").innerHTML = '交货总是准时，我的任何问题都得到了他们的客户服务的快速和友好的回答。 我很高兴发现了这家公司的瑰宝。';
+
+
+    //llamdas de accion
+    var accionElemento = document.getElementById("accion");
+    accionElemento.innerHTML = '<h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white" id="accion">你要知道 <mark id="mas" class="px-2 text-white bg-blue-600 rounded dark:bg-blue-500">更远</mark>关于我们的产品？</h1>';
+    document.getElementById("txtAccion").innerHTML = '请联系我们的一位顾问，了解我们的产品目录以及为您提供的数以千计的独特优惠。';
+    document.getElementById("llevame").innerHTML = '骑我';
+    //iconos
+    document.getElementById("Facebook").innerHTML = '在 Facebook 上访问我们。';
+    document.getElementById("twitter").innerHTML = '在 Twitter 上访问我们。';
+
 }
